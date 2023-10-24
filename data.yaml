@@ -1,0 +1,14 @@
+KANINI SOFTWARE SOLUTIONS:
+  - department:
+    - name: IT
+      employees:
+      - name: Shri
+      - name: Thrupthi
+      - name: Swathi
+
+  - department:
+    - name: HR
+      employees:
+      - name: Priya
+      - name: Mozhi
+     
